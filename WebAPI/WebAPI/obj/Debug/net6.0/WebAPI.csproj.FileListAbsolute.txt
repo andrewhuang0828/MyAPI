@@ -1,0 +1,17 @@
+/Users/ah/Projects/WebAPI/WebAPI/bin/Debug/net6.0/WebAPI
+/Users/ah/Projects/WebAPI/WebAPI/bin/Debug/net6.0/WebAPI.deps.json
+/Users/ah/Projects/WebAPI/WebAPI/bin/Debug/net6.0/WebAPI.runtimeconfig.json
+/Users/ah/Projects/WebAPI/WebAPI/bin/Debug/net6.0/WebAPI.dll
+/Users/ah/Projects/WebAPI/WebAPI/bin/Debug/net6.0/WebAPI.pdb
+/Users/ah/Projects/WebAPI/WebAPI/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/ah/Projects/WebAPI/WebAPI/obj/Debug/net6.0/WebAPI.csproj.AssemblyReference.cache
+/Users/ah/Projects/WebAPI/WebAPI/obj/Debug/net6.0/WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ah/Projects/WebAPI/WebAPI/obj/Debug/net6.0/WebAPI.AssemblyInfoInputs.cache
+/Users/ah/Projects/WebAPI/WebAPI/obj/Debug/net6.0/WebAPI.AssemblyInfo.cs
+/Users/ah/Projects/WebAPI/WebAPI/obj/Debug/net6.0/WebAPI.csproj.CoreCompileInputs.cache
+/Users/ah/Projects/WebAPI/WebAPI/obj/Debug/net6.0/WebAPI.csproj.CopyComplete
+/Users/ah/Projects/WebAPI/WebAPI/obj/Debug/net6.0/WebAPI.dll
+/Users/ah/Projects/WebAPI/WebAPI/obj/Debug/net6.0/refint/WebAPI.dll
+/Users/ah/Projects/WebAPI/WebAPI/obj/Debug/net6.0/WebAPI.pdb
+/Users/ah/Projects/WebAPI/WebAPI/obj/Debug/net6.0/WebAPI.genruntimeconfig.cache
+/Users/ah/Projects/WebAPI/WebAPI/obj/Debug/net6.0/ref/WebAPI.dll
